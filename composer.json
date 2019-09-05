@@ -1,0 +1,19 @@
+{
+    "name": "task/booster",
+    "description": "Multi-process execution task",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yolo",
+            "email": "jiaowenlong@1d1d100.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Booster\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
